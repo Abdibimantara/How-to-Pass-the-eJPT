@@ -11,5 +11,15 @@ waktu yang saya gunakan untuk persiapan exam tersebut kurang lebih ada 2 sampai 
 ## Waktu Ujian berapa lama ?
 INE sebagai lenbaga yang menyediakan sertifikasi EJPT, menyediakan waktu sebanyak 3 * 24 jam untuk kita agar dapat menyelesaikan challenge tersebut. dimana kita juga dapat dengan mudah istirahat ataupun jeda dalam rentang waktu tersebut.
 
+## Materi yang diujikan  ?
+materi yang diujikan dalam sertifikasi EJPT adalah materi penteting pada umumnya. dimana materi tersebut terbagi menjadi 
+  1. Networking
+  2. Scanning
+  3. web attack
+  4. system attack
+  
+## Tools yang digunakan ?
+ada beberapa tool yang saya gunakan dalam proses exam tersebut seperti nmap, gobuster, hydra, jhon the ripper, nessuss, burpsuite
+
 
 
